@@ -1,11 +1,11 @@
-# Code Screening: Django REST Framework + Vue.js
+# Code Screening: Django REST Framework + Vue.js :🌟
 
 ## Overview
 This project is part of a code screening assignment that demonstrates building a backend API using Django REST Framework and a responsive frontend using Vue.js. The backend provides an API for posts with comments, while the frontend displays movie details dynamically fetched from an external API.
 
 ---
 
-## Features
+## Features 📝
 
 ### Backend (Django REST Framework):
 1. **Posts API**:
@@ -23,8 +23,8 @@ This project is part of a code screening assignment that demonstrates building a
    - Tested using Postman for endpoints and data handling.
 
 ### Frontend (Vue.js):
-1. **Responsive Design**:
-   - Fully responsive layout that adjusts for desktops, tablets, and mobile screens.
+1. ** Design**:
+   - A layout that that is adjusted for desktops (responsiveness - still learning).
 
 2. **Dynamic Data Fetching**:
    - Fetches movie details from the OMDB API.
@@ -37,10 +37,11 @@ This project is part of a code screening assignment that demonstrates building a
 
 4. **Key Improvement**:
    - Enhanced genre display with hover animations to improve visual appeal.
+   - Buffer loading screen that catches attention
 
 ---
 
-## Setup and Installation
+## Setup and Installation 🛠️
 
 ### Prerequisites
 - Python 3.10 or above
@@ -93,7 +94,7 @@ This project is part of a code screening assignment that demonstrates building a
 
 ---
 
-## API Endpoints
+## API Endpoints 🌐
 
 ### **Posts Endpoint**
 - **GET** `/posts/`
@@ -112,7 +113,7 @@ else:
 
 ---
 
-## File Structure
+## File Structure 📂
 ```
 project-name/
 |-- backend_repo/
@@ -133,7 +134,7 @@ project-name/
 
 ---
 
-## How to Test
+## How to Test 🚀
 
 ### Backend:
 - Use Postman or cURL to test the `/posts/` endpoint.
@@ -148,17 +149,8 @@ project-name/
 
 ---
 
-## Screenshots
-### Homepage
-![Homepage Screenshot](path/to/homepage-screenshot.png)
-
-### Responsive Design
-![Mobile View](path/to/mobile-view-screenshot.png)
-
----
-
-## Loom Video
-Watch my project walkthrough on Loom: [Loom Video Link](https://loom.com/share/your-video-link)
+## Loom Video 💻
+Watch my project walkthrough on Loom: [Loom Video Link](https://www.loom.com/share/d9c64140f2df4f3f9b0e59667b650423)
 
 ---
 
@@ -169,6 +161,6 @@ Watch my project walkthrough on Loom: [Loom Video Link](https://loom.com/share/y
 
 ---
 
-## Author
-[Your Name]  
-[Your GitHub Profile](https://github.com/your-username)
+## Author 🎉
+[Shawn Biju Thomas](https://www.linkedin.com/in/shawnthomas02/) 
+[GitHub](https://github.com/2347253)

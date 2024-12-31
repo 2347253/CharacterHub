@@ -163,4 +163,5 @@ Watch my project walkthrough on Loom: [Loom Video Link](https://www.loom.com/sha
 
 ## Author 🎉
 [Shawn Biju Thomas](https://www.linkedin.com/in/shawnthomas02/) 
+
 [GitHub](https://github.com/2347253)
